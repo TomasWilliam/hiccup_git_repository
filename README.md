@@ -24,3 +24,6 @@ For configuration options see `config` object in [index.js](https://github.com/T
 | Property   | Description                                                                                                                            | Default |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------- |
 | `inverted` | Controls visual spinning direction of reels. If false, reels will spin from bottom to top. If true, reels will spin from top to bottom | false   |
+
+# Sample Output
+ <img src='Gambling.png' width=400>

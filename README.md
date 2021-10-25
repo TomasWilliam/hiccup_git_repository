@@ -19,7 +19,7 @@ Built using the _Web Animations API_.
 
 ## Configuration
 
-For configuration options see `config` object in [index.js](https://github.com/TomasWilliam/html5-slot-machine/blob/master/src/js/index.js)
+For configuration options see `config` object in [index.js](https://github.com/TomasWilliam/hiccup_git_repository/blob/master/src/js/index.js)
 
 | Property   | Description                                                                                                                            | Default |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------- |
